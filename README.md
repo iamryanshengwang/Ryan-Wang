@@ -19,11 +19,11 @@ Education
 
 Washington Univeristy in St. Louis                      
 
-M.S. Imaging Science                                                                            Aug 2023 - Expected May 2025  
+M.S. Imaging Science                                                                            (Aug 2023 - Expected May 2025)  
 
 Shenzhen University  
 
-B.S. Information and Computing Science                                                             Sep 2019 - June 2023  
+B.S. Information and Computing Science                                                             (Sep 2019 - June 2023)  
 
 Technical Skills 
 
@@ -35,7 +35,7 @@ Professional Experience
 
 Lenovo  
 
-Algorithm Engineer Intern                                                                                       May 2024 - Present  
+Algorithm Engineer Intern                                                                                       (May 2024 - Present)  
 
 -  Designed and implemented a comprehensive CPU knowledge graph utilizing Neo4j and py2neo, showcasing intricate details such as labels, ownership, comments, and origin rules.  
 
@@ -43,7 +43,7 @@ Algorithm Engineer Intern                                                       
 
 Sunshine Insurance Group  
 
-Data Analyst Intern                                                                                                Sep 2022 - Nov 2022  
+Data Analyst Intern                                                                                                (Sep 2022 - Nov 2022)  
 
 - Utilized pandas in Python to compute the Cars Insurance dataframe for individual customers, and completed Excel spreadsheets for the company.  
 
@@ -51,7 +51,7 @@ Projects
 
 Ray Tracing for Brain Tumor Detection and Diagnosis 
 
-Washington University School of Medicine                                                            Nov 2023 - Feb 2024 
+Washington University School of Medicine                                                            (Nov 2023 - Feb 2024) 
 
 - Developed a Ray Tracing software using Matlab Simulink package to improve brain tumor position prediction from CT and MRI images.  
 
@@ -59,7 +59,7 @@ Washington University School of Medicine                                        
 
 Internet User Behaviour Analysis using Data Mining 
 
-Remin University of China                                                                                     June 2022 - Sep 2022 
+Remin University of China                                                                                     (June 2022 - Sep 2022) 
 
 - Gathered and analyzed 295 valid questionnaires using SPSS and the Technology Acceptance Model (TAM) to delve into customer data. 
 
@@ -67,7 +67,7 @@ Remin University of China                                                       
 
 AI-based Subway Fire Detection System  
 
-Shenzhen University                                                                                             Nov 2019 - June 2020  
+Shenzhen University                                                                                             (Nov 2019 - June 2020)   
 
 - Developed a machine learning-based fire detection system for subway stations, utilizing convolutional neural networks (CNNs) and real-world fire image datasets. 
 
