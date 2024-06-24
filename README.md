@@ -3,9 +3,9 @@ Hello, my name is Ryan Wang. I am currently pursuing a Master of Science in Imag
 
 My technical skills span across various programming languages including C, C++, Python, Go, Matlab, and SQL, and I am proficient in tools such as TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, and SQLiteStudio.
 
-During my tenure as an Algorithm Engineer Intern at Lenovo, I designed and implemented a comprehensive CPU knowledge graph using Neo4j and py2neo. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I utilized Python and Excel to analyze and manage data.
+During my tenure as an Algorithm Engineer Intern at Lenovo, I developed a chatbot named "Prometheus" using Neo4j, py2neo and Streamlit. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I utilized Python and Excel to analyze and manage data.
 
-My project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
+My past project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
 
 In addition to my technical expertise, I am fluent in English and a native Mandarin speaker. My interests include playing the piano and guitar, as well as swimming. I am passionate about leveraging my skills and experiences to contribute to innovative projects and make a meaningful impact in the field of imaging science and beyond.
 
@@ -29,7 +29,11 @@ Technical Skills
 
 Programming Languages: C, C++, Python, Go, Matlab, SQL  
 
-Tools: TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, SQLiteStudio   
+Tools: TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, SQLiteStudio, LangChain   
+
+Publications
+Wang Y, Chen S & Jin K, KG Collaborative LLM for computer components recommendation, with editor
+Wang Y, Zhao J, Research on Jingdong's self-built logistics based on technology acceptance model, EMFRM 2022
 
 Professional Experience  
 
@@ -37,9 +41,9 @@ Lenovo
 
 Algorithm Engineer Intern                                                                                       (May 2024 - Present)  
 
--  Designed and implemented a comprehensive CPU knowledge graph utilizing Neo4j and py2neo, showcasing intricate details such as labels, ownership, comments, and origin rules.  
+-  Designed and implemented computer components knowledge graphs utilizing Neo4j and py2neo, showcasing intricate details such as labels, ownership, comments, and origin rules.  
 
-- Actively participated in the Desktop Computing group, contributing insights and ideas towards the development of AIPC (Artificial Intelligent Personal Computing) Concept.  
+- Combined KGs with an LLM for leveraging user input to cypher, and resulted in a chatbot for Lenovo internal use.  
 
 Sunshine Insurance Group  
 
