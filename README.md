@@ -1,5 +1,5 @@
-# Ryan-Wang
-Hello, my name is Ryan Wang. I am currently pursuing a Master of Science in Imaging Science at Washington University in St. Louis, expected to graduate in May 2025. I hold a Bachelor's degree in Information and Computing Science from Shenzhen University.
+# Yunsheng-(Ryan)-Wang
+Hello, my name is Yunsheng (Ryan) Wang. I am currently pursuing a Master of Science in Imaging Science at Washington University in St. Louis, expected to graduate in May 2025. I hold a Bachelor's degree in Information and Computing Science from Shenzhen University.
 
 My technical skills span across various programming languages including C, C++, Python, Go, Matlab, and SQL, and I am proficient in tools such as TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, and SQLiteStudio.
 
@@ -7,11 +7,9 @@ During my tenure as an Algorithm Engineer Intern at Lenovo, I developed a chatbo
 
 My past project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
 
-In addition to my technical expertise, I am fluent in English and a native Mandarin speaker. My interests include playing the piano and guitar, as well as swimming. I am passionate about leveraging my skills and experiences to contribute to innovative projects and make a meaningful impact in the field of imaging science and beyond.
-
 I am looking for a software engineer or algorithm engineer job, and my CV is shown below. PLease hire me!!!
 
-Ryan Wang  
+Yunsheng (Ryan) Wang  
 
 Phone: (314) 203-1962 | Email: iamryansheng@gmail.com | Linkedin: ryan-wang-543abb2ba  
 
@@ -32,7 +30,9 @@ Programming Languages: C, C++, Python, Go, Matlab, SQL
 Tools: TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, SQLiteStudio, LangChain   
 
 Publications
+
 Wang Y, Chen S & Jin K, KG Collaborative LLM for computer components recommendation, with editor
+
 Wang Y, Zhao J, Research on Jingdong's self-built logistics based on technology acceptance model, EMFRM 2022
 
 Professional Experience  
@@ -41,7 +41,7 @@ Lenovo
 
 Algorithm Engineer Intern                                                                                       (May 2024 - Present)  
 
--  Designed and implemented computer components knowledge graphs utilizing Neo4j and py2neo, showcasing intricate details such as labels, ownership, comments, and origin rules.  
+- Constructed computer components knowledge graphs using Neo4j and py2neo, showcasing details such as labels, ownership, comments, and origin rules.  
 
 - Combined KGs with an LLM for leveraging user input to cypher, and resulted in a chatbot for Lenovo internal use.  
 
@@ -52,6 +52,16 @@ Data Analyst Intern                                                             
 - Utilized pandas in Python to compute the Cars Insurance dataframe for individual customers, and completed Excel spreadsheets for the company.  
 
 Projects  
+
+Prometheus chatbot: KG collaborative LLM for computer components recommendation
+
+Lenovo                                                                              (May 2024 - Current)
+
+-  Constructed computer components knowledge graphs using Neo4j and py2neo, showcasing details such as labels, ownership, comments, and origin rules.
+
+-  Combined KGs with an LLM for leveraging user input to cypher, and resulted in a chatbot for Lenovo internal use.
+
+-  Resulted in a first author paper, which is under editor for publication.
 
 Ray Tracing for Brain Tumor Detection and Diagnosis 
 
