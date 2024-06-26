@@ -9,7 +9,9 @@ My past project experience includes developing Ray Tracing software for brain tu
 
 I am looking for a software engineer or algorithm engineer job, and my CV is shown below. PLease hire me!!!  
 
-Phone: (314) 203-1962 | Email: iamryansheng@gmail.com | Linkedin: ryan-wang-543abb2ba | GitHub: github.com/iamryanshengwang/Ryan-Wang  
+Phone: (314) 203-1962 | Email: iamryansheng@gmail.com | 311 DeBaliviere Ave, St. Louis, MO
+
+Linkedin: ryan-wang-543abb2ba | GitHub: github.com/iamryanshengwang/Ryan-Wang  
 
 Education    
 
