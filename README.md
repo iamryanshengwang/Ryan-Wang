@@ -7,11 +7,9 @@ During my tenure as an Algorithm Engineer Intern at Lenovo, I developed a chatbo
 
 My past project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
 
-I am looking for a software engineer or algorithm engineer job, and my CV is shown below. PLease hire me!!!
+I am looking for a software engineer or algorithm engineer job, and my CV is shown below. PLease hire me!!!  
 
-Yunsheng (Ryan) Wang  
-
-Phone: (314) 203-1962 | Email: iamryansheng@gmail.com | Linkedin: ryan-wang-543abb2ba  
+Phone: (314) 203-1962 | Email: iamryansheng@gmail.com | Linkedin: ryan-wang-543abb2ba | GitHub: github.com/iamryanshengwang/Ryan-Wang  
 
 Education    
 
