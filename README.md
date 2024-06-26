@@ -31,7 +31,7 @@ Tools: TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, SQLiteStudio, LangChain
 
 Publications
 
-Wang Y, Chen S & Jin K, KG Collaborative LLM for computer components recommendation, with editor
+Wang Y, Chen S & Jin K, Prometheus Chatbot: KG Collaborative LLM for computer components recommendation, with editor
 
 Wang Y, Zhao J, Research on Jingdong's self-built logistics based on technology acceptance model, EMFRM 2022
 
@@ -53,7 +53,7 @@ Data Analyst Intern                                                             
 
 Projects  
 
-Prometheus chatbot: KG collaborative LLM for computer components recommendation
+Prometheus Chatbot: KG collaborative LLM for computer components recommendation
 
 Lenovo                                                                              (May 2024 - Current)
 
