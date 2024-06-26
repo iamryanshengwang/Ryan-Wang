@@ -3,7 +3,7 @@ Hello, my name is Yunsheng (Ryan) Wang. I am currently pursuing a Master of Scie
 
 My technical skills span across various programming languages including C, C++, Python, Go, Matlab, and SQL, and I am proficient in tools such as TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, and SQLiteStudio.
 
-During my tenure as an Algorithm Engineer Intern at Lenovo, I developed a chatbot named "Prometheus" using Neo4j, py2neo and Streamlit. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I utilized Python and Excel to analyze and manage data.
+During my tenure as a software Engineer Intern at Lenovo, I developed a chatbot named "Prometheus" using Neo4j, py2neo and Streamlit. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I utilized Python and Excel to analyze and manage data.
 
 My past project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
 
@@ -39,7 +39,7 @@ Professional Experience
 
 Lenovo  
 
-Algorithm Engineer Intern                                                                                       (May 2024 - Present)  
+Software Engineer Intern                                                                                       (May 2024 - Present)  
 
 - Constructed computer components knowledge graphs using Neo4j and py2neo, showcasing details such as labels, ownership, comments, and origin rules.  
 
