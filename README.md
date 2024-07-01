@@ -77,7 +77,7 @@ Remin University of China                                                       
 
 - Gathered and analyzed 295 valid questionnaires using SPSS and the Technology Acceptance Model (TAM) to delve into customer data. 
 
-- Served as the first author of the published paper titled "Research on Jing Dong’s self-built logistics using TAM" in IEEE 2022. 
+- Served as the first author of the published paper titled "Research on Jing Dong’s self-built logistics based on TAM" in IEEE 2022. 
 
 AI-based Subway Fire Detection System  
 
