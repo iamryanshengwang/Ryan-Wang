@@ -1,19 +1,19 @@
 # Yunsheng-(Ryan)-Wang
 Hello, my name is Yunsheng (Ryan) Wang. I am currently pursuing a Master of Science in Imaging Science at Washington University in St. Louis, expected to graduate in May 2025. I hold a Bachelor's degree in Information and Computing Science from Shenzhen University.
 
-My technical skills span across various programming languages including C, C++, Python, Go, Matlab, and SQL, and I am proficient in tools such as TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, and SQLiteStudio.
+My technical skills span across various programming languages including C, C++, Python, Matlab, and SQL, and I am proficient in tools such as Langchain, Streamlit, Blender 3D, Neo4j, and SQLiteStudio.
 
-During my tenure as a Software Engineer Intern at Lenovo, I developed a chatbot named "Prometheus" using Neo4j, py2neo and Streamlit. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I utilized Python and Excel to analyze and manage data.
+During my tenure as an Algorithm Engineer Intern at Lenovo, I developed a chatbot named "Prometheus" using Neo4j, Langchain and Streamlit. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I used Python and Excel to analyze and manage data.
 
 My past project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
 
-I am looking for a software engineer or algorithm engineer job, and my CV is shown below. PLease hire me!!!  
+I am looking for an Algorithm Engineer or Software Engineer job, and my CV is shown below. PLease hire me!!!  
 
 Phone: (314) 203-1962 | Email: iamryansheng@gmail.com | 311 DeBaliviere Ave, St. Louis, MO
 
 Linkedin: ryan-wang-543abb2ba | GitHub: github.com/iamryanshengwang/Ryan-Wang  
 
-Education    
+Education     
 
 Washington Univeristy in St. Louis                      
 
@@ -25,9 +25,9 @@ B.S. Information and Computing Science                                          
 
 Technical Skills 
 
-Programming Languages: C, C++, Python, Go, Matlab, SQL  
+Programming Languages: C, C++, Python, Matlab, SQL  
 
-Tools: TensorFlow, OpenCV, Simulink, Blender 3D, Neo4j, SQLiteStudio, LangChain   
+Tools: TensorFlow, Simulink, Blender 3D, Neo4j, SQLiteStudio, LangChain   
 
 Publications
 
