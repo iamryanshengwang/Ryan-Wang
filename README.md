@@ -1,9 +1,9 @@
 # Yunsheng-(Ryan)-Wang
-Hello, my name is Yunsheng (Ryan) Wang. I am currently pursuing a Master of Science in Imaging Science at Washington University in St. Louis, expected to graduate in May 2025. I hold a Bachelor's degree in Information and Computing Science from Shenzhen University.
+Hi! My name is Yunsheng (Ryan) Wang. I am currently pursuing a Master's degree at Washington University, and I hold a Bachelor's degree from Shenzhen University.
 
-My technical skills span across various programming languages including C, C++, Python, Matlab, and SQL, and I am proficient in tools such as Langchain, Streamlit, Blender 3D, Neo4j, and SQLiteStudio.
+My technical skills span across programming languages including C, C++, Python, Matlab, and SQL, and I am proficient in tools such as Langchain, Streamlit, Blender 3D, Neo4j, and SQLiteStudio.
 
-During my tenure as an Algorithm Engineer Intern at Lenovo, I developed a chatbot named "Prometheus" using Neo4j, Langchain and Streamlit. I actively participated in the development of the AIPC Concept within the Desktop Computing group. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I used Python and Excel to analyze and manage data.
+During my tenure as an Algorithm Engineer Intern at Lenovo, I constructed knowledge graphs and combined them with large language models to develop a chatbot named "Prometheus" based on Neo4j, Langchain and Streamlit. Previously, I interned as a Data Analyst at Sunshine Insurance Group, where I used Python and Excel to analyze and manage data.
 
 My past project experience includes developing Ray Tracing software for brain tumor detection at Washington University School of Medicine, analyzing internet user behavior through data mining at Remin University of China, and creating an AI-based fire detection system for subway stations at Shenzhen University.
 
