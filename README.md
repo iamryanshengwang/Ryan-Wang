@@ -39,7 +39,7 @@ Professional Experience
 
 Lenovo  
 
-Software Engineer Intern                                                                                       (May 2024 - Present)  
+Algorithm Engineer Intern                                                                                       (May 2024 - Present)  
 
 - Constructed computer components knowledge graphs using Neo4j and py2neo, showcasing details such as labels, ownership, comments, and origin rules.  
 
