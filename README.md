@@ -1,4 +1,4 @@
-# Yunsheng-(Ryan)-Wang
+# Yunsheng (Ryan) Wang
 Hi! My name is Yunsheng (Ryan) Wang. I am currently pursuing a Master's degree at Washington University in St. Louis, and I hold a Bachelor's degree from Shenzhen University.
 
 My technical skills span across programming languages including C, C++, Python, Matlab, and SQL, and I am proficient in tools such as Langchain, Streamlit, Blender 3D, Neo4j, and SQLiteStudio.
