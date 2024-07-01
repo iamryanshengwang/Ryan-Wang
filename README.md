@@ -17,11 +17,11 @@ Education
 
 Washington Univeristy in St. Louis                      
 
-M.S. Imaging Science                                                                            (Aug 2023 - Expected May 2025)  
+- M.S. Imaging Science                                                                            (Aug 2023 - Expected May 2025)  
 
 Shenzhen University  
 
-B.S. Information and Computing Science                                                             (Sep 2019 - June 2023)  
+- B.S. Information and Computing Science                                                             (Sep 2019 - June 2023)  
 
 Technical Skills 
 
