@@ -31,9 +31,9 @@ Tools: TensorFlow, Simulink, Blender 3D, Neo4j, SQLiteStudio, LangChain
 
 Publications
 
-Wang Y, Chen S & Jin K, Prometheus Chatbot: KG Collaborative LLM for computer components recommendation, with editor
+Wang Y, Chen S & Jin K, Prometheus Chatbot: KG Collaborative LLM for Computer Components Recommendation, with editor
 
-Wang Y, Zhao J, Research on Jingdong's self-built logistics based on technology acceptance model, EMFRM 2022
+Wang Y, Zhao J, Research on Jingdong's Self-built Logistics Based on Technology Acceptance Model, EMFRM 2022
 
 Professional Experience  
 
@@ -127,9 +127,9 @@ Linkedin：ryan-wang-543abb2ba | GitHub：github.com/iamryanshengwang/Ryan-Wang
 
 出版物：
 
-Wang Y, Chen S & Jin K, Prometheus Chatbot: KG Collaborative LLM for computer components recommendation, with editor
+Wang Y, Chen S & Jin K, Prometheus Chatbot: KG Collaborative LLM for Computer Components Recommendation, with editor
 
-Wang Y, Zhao J, Research on Jingdong's self-built logistics based on technology acceptance model, EMFRM 2022
+Wang Y, Zhao J, Research on Jingdong's Self-built Logistics Based on Technology Acceptance Model, EMFRM 2022
 
 工作经历：
 
